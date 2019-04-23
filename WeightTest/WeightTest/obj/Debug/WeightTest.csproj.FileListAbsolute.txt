@@ -1,0 +1,14 @@
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\bin\Debug\WeightTest.exe.config
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\bin\Debug\WeightTest.exe
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\bin\Debug\WeightTest.pdb
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\bin\Debug\HelixToolkit.Wpf.dll
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\WeightTest.csprojResolveAssemblyReference.cache
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\MainWindow.baml
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\MainWindow.g.cs
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\App.g.cs
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\WeightTest_MarkupCompile.cache
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\WeightTest.g.resources
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\WeightTest.Properties.Resources.resources
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\WeightTest.csproj.GenerateResource.Cache
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\WeightTest.exe
+H:\Escuela\Kinetic\Projects\Body Scan\Body Scan Multi Camera\Weight project\WeightTest\WeightTest\obj\Debug\WeightTest.pdb
